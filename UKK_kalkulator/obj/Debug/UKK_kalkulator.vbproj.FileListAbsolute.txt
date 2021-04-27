@@ -1,0 +1,10 @@
+E:\UKK\UKK_kalkulator\UKK_kalkulator\bin\Debug\UKK_kalkulator.exe.config
+E:\UKK\UKK_kalkulator\UKK_kalkulator\bin\Debug\UKK_kalkulator.exe
+E:\UKK\UKK_kalkulator\UKK_kalkulator\bin\Debug\UKK_kalkulator.pdb
+E:\UKK\UKK_kalkulator\UKK_kalkulator\bin\Debug\UKK_kalkulator.xml
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.Form1.resources
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.Resources.resources
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.vbproj.GenerateResource.Cache
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.exe
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.xml
+E:\UKK\UKK_kalkulator\UKK_kalkulator\obj\Debug\UKK_kalkulator.pdb
